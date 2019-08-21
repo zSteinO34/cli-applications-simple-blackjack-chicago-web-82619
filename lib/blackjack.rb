@@ -25,7 +25,7 @@ def end_game(card_total)
 end
 
 def initial_round
-  
+  binding.pry
   display_card_total(total)
 end
 
